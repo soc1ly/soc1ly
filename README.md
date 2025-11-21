@@ -1,12 +1,12 @@
 
 <!-- Header -->
-<h1 align="center">Привет, я soc1ly! 🪙</h1>
-<p align="center">🌟 Minecraft Разработчик | 🖥️ WEB Разработчик | 🌐 Любитель Java</p>
+<h1 align="center">soc1ly</h1>
+<p align="center">🖥️ Developer. JDK17 in my heart</p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://soc1ly.lol" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/-МОЕ%20БИО-833AB4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/-BIOGRAPHY-833AB4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Resume">
   </a>
 </p>
 
@@ -18,8 +18,8 @@
 
 ### О себе 👋
 
-Привет! Я soc1ly, занимаюсь разработкой серверов в Minecraft. 
-Оптимизирую сервера, пишу плагины на заказ
+я сошили. занимаюсь java разработкой. делаю сборки/плагины на заказ
+активно изучаю python, c++
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Мой стек 🛠️
+### языки, на которых я программирую
 
 <p align="center">
   <!-- Languages -->
@@ -42,14 +42,14 @@
 
 ---
 
-### Базы данных 🗄️
+### базы данных, с которыми я работаю
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+---
 
 <div align="center">
   <img src="https://media1.tenor.com/m/ufrJFSRsWPIAAAAd/suzuya-juzo.gif" alt="сузуя джузо уууу soc1ly кинг" width="50%" />
@@ -57,18 +57,12 @@
 
 ---
 
-### Full Stack Разработка 💻
 
-Создаю быстрые и красивые сайты, как с дизайном, так и с серверной частью.  
-Всегда стараюсь использовать лучшие технологии и делать что-то новое.
+### есть вопрос?
 
----
-
-### Напиши мне! 🤝
-
-Хочешь сделать проект? Есть идея? Или просто хочешь пообщаться?  
-Пиши, буду рад новым людям и интересным предложениям!
+хочешь сделать совместный проект, заказать плагин или сборку? или же просто пообщаться?
+напиши мне в телеграмм, буду рад любому вашему предложению :))
 
 ---
 
-**✨ Давайте сделаем что-то крутое вместе!**
+** сошиал продакшн два ноль два пять **
